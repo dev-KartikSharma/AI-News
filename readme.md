@@ -2,8 +2,8 @@
 
 A clean and simple news aggregator web application built with Python and Flask that fetches and displays the latest articles on Artificial Intelligence and technology.
 
-![AI News App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*Note: You should replace the URL above with a link to a screenshot of your finished app.*
+![AI News App Screenshot](<img width="1899" height="918" alt="Image" src="https://github.com/user-attachments/assets/75283a4f-5932-42f6-bb3c-084d24d30890" />)
+
 
 ---
 
